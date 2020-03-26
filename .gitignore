@@ -249,7 +249,7 @@ DerivedData/
 # General
 
 # Icon must end with two \r
-Icon
+#Icon
 
 
 # Thumbnails
@@ -444,3 +444,5 @@ $RECYCLE.BIN/
 package-lock.json
 
 # End of https://www.gitignore.io/api/node,macos,windows,webstorm,reactnative,visualstudiocode
+
+.idea/

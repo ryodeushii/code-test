@@ -1,0 +1,14 @@
+body,html,#root {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+$theme-colors: (
+  "info": tomato,
+  "danger": teal
+);
+
+/* import bootstrap to set changes */
+
+
+@import '~bootstrap/scss/bootstrap.scss';
