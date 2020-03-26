@@ -1,4 +1,9 @@
-# vi-react-boilerplate
+# react-boilerplate
+
+* added Bootstrap with react-bootstrap
+* redux support ready with hook
+* react router
+* added Fontawesome
 
 React.js project boilerplate with babel, eslint, redux, saga, react-router-dom, styled-components and some utils
 
