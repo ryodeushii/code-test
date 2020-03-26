@@ -10,7 +10,7 @@
   "author": "Sergey Ivashko",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "connected-react-router": "^6.3.2",
     "history": "^4.7.2",
     "hoist-non-react-statics": "^3.3.0",
